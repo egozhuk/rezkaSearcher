@@ -22,7 +22,7 @@ IMAP_SERVER = "imap.yandex.ru"
 
 
 def search_hdrezka(query, url):
-    driver_path = '/Users/vladislavzukov/Documents/chromedriver_mac_arm64/chromedriver'
+    driver_path = 'path to installed driver'
 
     chrome_options = Options()
     chrome_options.add_argument('--headless')

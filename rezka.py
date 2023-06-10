@@ -14,8 +14,8 @@ import datetime
 import pytz
 import webbrowser
 
-EMAIL = "filmshdrezka@yandex.ru"
-PASSWORD = "qljhvtswecmudkvl"
+EMAIL = "your email"
+PASSWORD = "password for your email"
 RECIPIENT = "mirror@hdrezka.org"
 SMTP_SERVER = "smtp.yandex.ru"
 IMAP_SERVER = "imap.yandex.ru"

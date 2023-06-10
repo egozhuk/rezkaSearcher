@@ -12,7 +12,7 @@
 3) Вам нужно написать в коде вашу почту и пароль для нее.
 ```EMAIL = "ваша почта"```
 ```PASSWORD = "пароль для вашей почты"```
-4) В терминале нужно написать: ```cd (tour path to downloaded repository)```
+4) В терминале нужно написать: ```cd (your path to downloaded repository)```
 5) Следующая команда: ```pip3 install -r requirements.txt```. It will install all libraries
 6) ```python3 rezka.py``` И всё!
 
